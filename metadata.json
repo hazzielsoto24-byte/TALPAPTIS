@@ -1,0 +1,9 @@
+{
+  "name": "TalpaPits",
+  "description": "Asistencia mecánica en ruta y servicio a domicilio en Talpa de Allende. Diagnóstico con IA y solicitud de ayuda rápida.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
