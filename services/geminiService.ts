@@ -1,7 +1,7 @@
 import { GoogleGenAI, Type, Schema } from "@google/genai";
 import { DiagnosisResult } from '../types';
 
-const ai = new GoogleGenAI({ apiKey:impot.meta.vita_API_KEY });
+const ai = new GoogleGenAI({ apiKey:impot.meta.vite_API_KEY });
 
 const diagnosisSchema: Schema = {
   type: Type.OBJECT,
